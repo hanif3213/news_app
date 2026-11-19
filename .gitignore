@@ -1,0 +1,4 @@
+config/env.json
+build/
+.dart_tool/
+.idea/
